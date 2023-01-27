@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Валерия\\source\\repos\\Generic\\Generic.csproj",
+      "projectUniqueName": "C:\\Users\\Валерия\\source\\repos\\Generics\\Generic.csproj",
       "projectName": "Generic",
-      "projectPath": "C:\\Users\\Валерия\\source\\repos\\Generic\\Generic.csproj",
+      "projectPath": "C:\\Users\\Валерия\\source\\repos\\Generics\\Generic.csproj",
       "packagesPath": "C:\\Users\\Валерия\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Валерия\\source\\repos\\Generic\\obj\\",
+      "outputPath": "C:\\Users\\Валерия\\source\\repos\\Generics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Валерия\\AppData\\Roaming\\NuGet\\NuGet.Config",

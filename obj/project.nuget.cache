@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tpG/oeiBHAi9/BXneMuMFwQanGoUtUiC/KhOL6xB3TiWLdSXehZOfCVGezc24XZz8lo6AvjkT+4ibvYToNky0g==",
+  "dgSpecHash": "ZvIHvMS4fySMt8mD/Qc7pB5Va53uQtIsi0qyNKB+HjnYtp/aSxEcIn1HmgZJHFku7N3LuAkCrUb44bmemzFKfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Валерия\\source\\repos\\Generic\\Generic.csproj",
+  "projectFilePath": "C:\\Users\\Валерия\\source\\repos\\Generics\\Generic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -16,8 +16,8 @@ namespace Generic
 
 
             //call it with a ref type
-            PairClass<string, string> fourthPair = new PairClass<string, string>("String 1 value 2", "string 1 value 2");
-            PairClass<string, string> fifthPair = new PairClass<string, string>("String 2 value 1", "string 2 value 2");
+            PairClass<string, string> fourthPair = new PairClass<string, string>("value 1", "value 2");
+            PairClass<string, string> fifthPair = new PairClass<string, string>("value 3", "value 24");
 
 
             ComparablePair<int, string> cpOne = new ComparablePair<int, string>(6, "13");
@@ -25,8 +25,8 @@ namespace Generic
             ComparablePair<int, int> cpThree = new ComparablePair<int, int>(20, 660);
             ComparablePair<int, int> cpFour = new ComparablePair<int, int>(10, 990);
 
-            Console.WriteLine(cpOne.CompareTo(cpTwo));
-            Console.WriteLine(cpThree.CompareTo(cpFour));
+            Console.WriteLine("Result comparison first: " + cpOne.CompareTo(cpTwo));
+            Console.WriteLine("Result comparison second: " + cpThree.CompareTo(cpFour));
 
 
 
@@ -42,12 +42,12 @@ namespace Generic
             int first = 10; // int? first = 10 is a fail signature because struct takes no null value
             int second = 20;
             Swap(ref first, ref second);
-            Console.WriteLine($"first number is {first}, second number is {second}");
+            //Console.WriteLine($"first number is {first}, second number is {second}");
 
             string frt = "first value";
             string scnd = "second value";
             Swap(ref frt, ref scnd);
-            Console.WriteLine($"first number is {frt}, second number is {scnd}");
+            //Console.WriteLine($"first number is {frt}, second number is {scnd}");
             #endregion Classwork
 
         }
